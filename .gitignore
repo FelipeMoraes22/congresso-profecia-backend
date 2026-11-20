@@ -1,0 +1,13 @@
+#Dependencias
+node_modules/
+
+#variaveis de amabiente credenciais
+.env
+.env.local
+serviceAccountKey.json
+*-firebase-adminsdk-*.json
+
+
+#logs e sistema
+*.log
+.DS_Store
